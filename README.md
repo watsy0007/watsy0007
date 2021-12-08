@@ -1,6 +1,6 @@
 <div>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=watsy0007&count_private=true&show_icons=true&theme=gradient" />
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=watsy0007&count_private=true&show_icons=true&theme=gradient&hide_title=true" />
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=watsy0007&count_private=true&show_icons=true&theme=gradient" />
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=watsy0007&count_private=true&show_icons=true&theme=gradient&hide_title=true" />
  </div>
 
 
