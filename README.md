@@ -1,7 +1,6 @@
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=181a26&title_color=99EDFF&text_color=eee&username=watsy0007" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&bg_color=181a26&title_color=99EDFF&text_color=eee&username=watsy0007" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=watsy0007&count_private=true&show_icons=true&theme=synthwave" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=watsy0007&count_private=true&show_icons=true&theme=synthwave&hide_title=true" />
  </div>
 
 
