@@ -13,6 +13,5 @@
   <img align="center" alt="watsy0007 React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="watsy0007 Zig" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg">
   <img align="center" alt="watsy0007 Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  <img align="right" alt="watsy0007 avator" width="100em" src="https://avatars.githubusercontent.com/u/822237?v=4">  
 </div>
 
