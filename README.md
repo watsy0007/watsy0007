@@ -1,5 +1,5 @@
 <div>
-  <img height="180em" width="417em" src="https://github-readme-stats-omega-kohl-97.vercel.app/api?username=watsy0007&count_private=true&show_icons=true&theme=gradient" />
+  <img height="180em" width="423em" src="https://github-readme-stats-omega-kohl-97.vercel.app/api?username=watsy0007&count_private=true&show_icons=true&theme=gradient" />
   <img height="180em" width="423em" src="https://github-readme-stats-omega-kohl-97.vercel.app/api/top-langs/?layout=compact&username=watsy0007&langs_count=8&count_private=true&show_icons=true&theme=gradient&hide_title=true" />
   
  </div>
